@@ -144,7 +144,7 @@ Sensitive personal information should be redacted before public publication.
 
 ### Evidence
 
-`[SCREENSHOT 05 — SELECTED SENSITIVE DATA / METADATA EVIDENCE]`
+![Sensetive Information]()`
 
 **M3 Status:** ✅ **COMPLETE**
 
