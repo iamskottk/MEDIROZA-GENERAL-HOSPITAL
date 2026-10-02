@@ -227,3 +227,23 @@ This project was conducted within an **authorised cybersecurity training environ
 Recovered passwords, credentials and unnecessary patient or personal information must **not** be published in the public repository.
 
 **Learning today. Securing tomorrow.**
+
+## Analyst
+
+### *Kabo Sekoto*
+**🔐 Junior Cybersecurity Practitioner**
+
+> `Learning → Cracking → Testing → Securing`
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
+
+
+---
