@@ -123,7 +123,7 @@ Assess whether the password protection applied to the recovered PDF documents co
 
 ### Key Evidence
 
-![Networkwalks Tools]()
+![Networkwalks Tools](passwords.PNG)
 
 > John the Ripper / Johnny was used for offline password recovery. NetworkWalks was used to validate successful access to the recovered documents.
 
