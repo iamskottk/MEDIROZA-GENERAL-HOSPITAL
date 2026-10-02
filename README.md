@@ -72,9 +72,7 @@ Nmap and Burp Suite were also used during the assessment.
 
 Only **two representative screenshots** are included for the command-line and application testing activities. The remaining commands were executed and documented but are not individually screenshoted to avoid unnecessary duplication.
 
-![Reconnaissance Commands]()
-
-`[SCREENSHOT 02 — BURP SUITE / APPLICATION TESTING]`
+![Reconnaissance Commands](reco.PNG)
 
 ---
 
@@ -125,9 +123,7 @@ Assess whether the password protection applied to the recovered PDF documents co
 
 ### Key Evidence
 
-`[SCREENSHOT 03 — JOHN THE RIPPER / JOHNNY]`
-
-`[SCREENSHOT 04 — VALIDATED PDF ACCESS]`
+![Networkwalks Tools]()
 
 > John the Ripper / Johnny was used for offline password recovery. NetworkWalks was used to validate successful access to the recovered documents.
 
