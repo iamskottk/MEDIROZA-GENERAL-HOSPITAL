@@ -72,7 +72,7 @@ Nmap and Burp Suite were also used during the assessment.
 
 Only **two representative screenshots** are included for the command-line and application testing activities. The remaining commands were executed and documented but are not individually screenshoted to avoid unnecessary duplication.
 
-`[SCREENSHOT 01 — RECONNAISSANCE COMMANDS]`
+![Reconnaissance Commands]()
 
 `[SCREENSHOT 02 — BURP SUITE / APPLICATION TESTING]`
 
