@@ -144,7 +144,7 @@ Sensitive personal information should be redacted before public publication.
 
 ### Evidence
 
-![Sensetive Information]()`
+![Sensetive Information](patient2pdfcontents.PNG)`
 
 **M3 Status:** ✅ **COMPLETE**
 
